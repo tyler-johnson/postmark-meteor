@@ -1,8 +1,8 @@
 {
 	"name": "postmark",
 	"description": "Postmark.js brought to Meteor.",
-	"homepage": "https://github.com/appleifreak/meteor-postmark",
+	"homepage": "https://github.com/appleifreak/postmark-meteor",
 	"author": "Tyler Johnson (http://vintyge.com)",
 	"version": "1.0.2",
-	"git": "https://github.com/appleifreak/meteor-postmark.git"
+	"git": "https://github.com/appleifreak/postmark-meteor.git"
 }
